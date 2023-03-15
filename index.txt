@@ -1,2 +1,3 @@
 novi fajl
 new title = <naslov>
+body<> whatever
