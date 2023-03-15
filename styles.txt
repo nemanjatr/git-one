@@ -1,2 +1,4 @@
 novi styles fajl
 margin = 20px;
+padding: 30px
+
