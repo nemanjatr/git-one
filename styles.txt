@@ -1,1 +1,2 @@
 novi styles fajl
+padding: 30px
